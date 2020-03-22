@@ -17,10 +17,10 @@
 - [Mozilla](https://www.mozilla.org/en-US/)
 
 **Information, Guides and News**
-- [Restore Privacy](https://restoreprivacy.com/): Up-to-date information about online privacy and security topics
-- [Privacy Tools](https://www.privacytools.io/): Services, tools and knowledge to protect your privacy against global mass surveillance
-- [Pro Privacy](https://proprivacy.com/): Learn how to protect your digital privacy and stay safe online
-- [PRISM Break](https://prism-break.org/en/): Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora
+- [Restore Privacy](https://restoreprivacy.com/)
+- [Privacy Tools](https://www.privacytools.io/)
+- [Pro Privacy](https://proprivacy.com/)
+- [PRISM Break](https://prism-break.org/en/)
 
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
