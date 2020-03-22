@@ -9,7 +9,7 @@
 - [Internet of Things](#internet-of-things)
 - [Maori](#maori)
 
-## Privacy and Security
+## Privacy & Security
 ## Web
 ## Robotics
 ## Artificial Intelligence
