@@ -31,8 +31,11 @@
 - [Protonmail](https://protonmail.com/) :incoming_envelope:
 - [BitWarden](https://bitwarden.com/) :lock:
 - [Pass](https://www.passwordstore.org/) :lock:
+- [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/) :lock:
 - [ownCloud](https://owncloud.org/) :cloud:
+- [Send](https://send.firefox.com/) :postbox:
 - [OnionShare](https://onionshare.org/) :postbox:
+- [Monitor](https://monitor.firefox.com/) :space_invader:
 
 ## Robotics
 ## Artificial Intelligence
