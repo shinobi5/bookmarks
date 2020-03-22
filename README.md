@@ -1,6 +1,6 @@
 # :books: Bookmarks
 
-- [Privacy & Security](#privacy-&-security)
+- [Privacy & Security](#privacy-and-security)
 - [Web](#web)
 - [Robotics](#robotics)
 - [Artificial Intelligence](#artificial-intelligence)
@@ -9,7 +9,7 @@
 - [Internet of Things](#internet-of-things)
 - [Maori](#maori)
 
-## Privacy & Security
+## Privacy and Security
 ## Web
 ## Robotics
 ## Artificial Intelligence
