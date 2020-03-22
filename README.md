@@ -1,4 +1,4 @@
-# :books: Bookmarks
+# :bookmark: Bookmarks
 
 - [Privacy & Security](#privacy-and-security)
 - [Robotics](#robotics)
@@ -20,8 +20,10 @@
 - [PRISM Break](https://prism-break.org/en/): Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora
 
 **Tools**
-- [Tutanota](https://tutanota.com/) :mailbox:
-- [Protonmail](https://protonmail.com/) :mailbox:
+- [Perfect Privacy](https://www.perfect-privacy.com/en/) :lock:
+- [Tutanota](https://tutanota.com/) :incoming_envelope:
+- [Protonmail](https://protonmail.com/) :incoming_envelope:
+- [BitWarden](https://bitwarden.com/) :key:
 
 ## Robotics
 ## Artificial Intelligence
