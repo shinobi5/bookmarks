@@ -15,6 +15,7 @@
 
 **Organisations**
 - [Mozilla](https://www.mozilla.org/en-US/)
+- [Privacy International](https://privacyinternational.org/)
 
 **Information, Guides and News**
 - [Restore Privacy](https://restoreprivacy.com/)
