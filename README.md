@@ -14,11 +14,10 @@
 ## Privacy & Security
 
 **Guides and News**
-- [Restore Privacy](https://restoreprivacy.com/)
-- [Privacy Tools](https://www.privacytools.io/)
+- [Restore Privacy](https://restoreprivacy.com/): Up-to-date information about online privacy and security topics
+- [Privacy Tools](https://www.privacytools.io/): Services, tools and knowledge to protect users privacy against global mass surveillance
 - [Pro Privacy](https://proprivacy.com/)
-- [PRISM Break](https://prism-break.org/en/): Open source alternatives to popular applications that track usage and store user data which can potentially be accessed or intercepted
-- []() 
+- [PRISM Break](https://prism-break.org/en/)
 
 ## Robotics
 ## Artificial Intelligence
