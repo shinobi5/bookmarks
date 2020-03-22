@@ -8,7 +8,8 @@
 - [Virtual Reality](#virtual-reality)
 - [Internet of Things](#internet-of-things)
 - [Maori](#maori)
-- [Music](#Music)
+- [Martial Arts](#martial-arts)
+- [Music](#music)
 
 ## Privacy & Security
 ## Web
@@ -18,4 +19,5 @@
 ## Virtual Reality
 ## Internet of Things
 ## Maori
+## Martial Arts
 ## Music
