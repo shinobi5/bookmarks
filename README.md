@@ -30,6 +30,7 @@
 - [Protonmail](https://protonmail.com/) :incoming_envelope:
 - [BitWarden](https://bitwarden.com/) :lock:
 - [ownCloud](https://owncloud.org/) :cloud:
+- [OnionShare](https://onionshare.org/) :postbox:
 
 ## Robotics
 ## Artificial Intelligence
