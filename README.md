@@ -14,12 +14,14 @@
 ## Privacy & Security
 
 **Information, Guides and News**
+- [Mozilla](https://www.mozilla.org/en-US/): 
 - [Restore Privacy](https://restoreprivacy.com/): Up-to-date information about online privacy and security topics
 - [Privacy Tools](https://www.privacytools.io/): Services, tools and knowledge to protect your privacy against global mass surveillance
 - [Pro Privacy](https://proprivacy.com/): Learn how to protect your digital privacy and stay safe online
 - [PRISM Break](https://prism-break.org/en/): Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora
 
 **Tools**
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
 - [Perfect Privacy](https://www.perfect-privacy.com/en/) :ghost:
 - [Tutanota](https://tutanota.com/) :incoming_envelope:
 - [Protonmail](https://protonmail.com/) :incoming_envelope:
