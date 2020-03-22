@@ -14,7 +14,7 @@
 ## Privacy & Security
 
 **Information, Guides and News**
-- [Mozilla](https://www.mozilla.org/en-US/): 
+- [Mozilla](https://www.mozilla.org/en-US/)
 - [Restore Privacy](https://restoreprivacy.com/): Up-to-date information about online privacy and security topics
 - [Privacy Tools](https://www.privacytools.io/): Services, tools and knowledge to protect your privacy against global mass surveillance
 - [Pro Privacy](https://proprivacy.com/): Learn how to protect your digital privacy and stay safe online
