@@ -12,6 +12,15 @@
 - [Music](#music)
 
 ## Privacy & Security
+
+**Guides and News**
+- [Restore Privacy](https://restoreprivacy.com/)
+- [Privacy Tools](https://www.privacytools.io/)
+- [Pro Privacy](https://proprivacy.com/)
+- [PRISM Break](https://prism-break.org/en/)
+Open source alternatives to popular applications that track usage and store user data which can potentially be accessed or intercepted
+- []() 
+
 ## Robotics
 ## Artificial Intelligence
 ## Augmented Reality
