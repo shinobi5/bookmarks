@@ -8,6 +8,7 @@
 - [Virtual Reality](#virtual-reality)
 - [Internet of Things](#internet-of-things)
 - [Maori](#maori)
+- [Music](#Music)
 
 ## Privacy & Security
 ## Web
@@ -17,3 +18,4 @@
 ## Virtual Reality
 ## Internet of Things
 ## Maori
+## Music
