@@ -29,6 +29,7 @@
 - [Tutanota](https://tutanota.com/) :incoming_envelope:
 - [Protonmail](https://protonmail.com/) :incoming_envelope:
 - [BitWarden](https://bitwarden.com/) :lock:
+- [ownCloud](https://owncloud.org/) :cloud:
 
 ## Robotics
 ## Artificial Intelligence
