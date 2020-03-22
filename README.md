@@ -37,12 +37,12 @@
 - [OnionShare](https://onionshare.org/) :postbox:
 - [Monitor](https://monitor.firefox.com/) :space_invader:
 
-## Robotics
 ## Artificial Intelligence
 ## Augmented Reality
 ## Virtual Reality
 ## Internet of Things
 ## Web
+## Robotics
 ## Maori
 ## Martial Arts
 ## Music
