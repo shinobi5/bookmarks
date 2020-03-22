@@ -12,12 +12,12 @@
 - [Music](#music)
 
 ## Privacy & Security
-## Web
 ## Robotics
 ## Artificial Intelligence
 ## Augmented Reality
 ## Virtual Reality
 ## Internet of Things
+## Web
 ## Maori
 ## Martial Arts
 ## Music
