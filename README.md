@@ -20,10 +20,10 @@
 - [PRISM Break](https://prism-break.org/en/): Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora
 
 **Tools**
-- [Perfect Privacy](https://www.perfect-privacy.com/en/) :lock:
+- [Perfect Privacy](https://www.perfect-privacy.com/en/) :ghost:
 - [Tutanota](https://tutanota.com/) :incoming_envelope:
 - [Protonmail](https://protonmail.com/) :incoming_envelope:
-- [BitWarden](https://bitwarden.com/) :key:
+- [BitWarden](https://bitwarden.com/) :closed_lock_with_key:
 
 ## Robotics
 ## Artificial Intelligence
