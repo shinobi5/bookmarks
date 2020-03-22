@@ -3,10 +3,10 @@
 - [Privacy & Security](#privacy-and-security)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Robotics](#robotics)
-- [Augmented Reality](#augmented-reality)
-- [Virtual Reality](#virtual-reality)
 - [Internet of Things](#internet-of-things)
 - [Web](#web)
+- [Augmented Reality](#augmented-reality)
+- [Virtual Reality](#virtual-reality)
 - [Maori](#maori)
 - [Martial Arts](#martial-arts)
 - [Music](#music)
@@ -39,10 +39,10 @@
 
 ## Artificial Intelligence
 ## Robotics
-## Augmented Reality
-## Virtual Reality
 ## Internet of Things
 ## Web
+## Augmented Reality
+## Virtual Reality
 ## Maori
 ## Martial Arts
 ## Music
