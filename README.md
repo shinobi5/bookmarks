@@ -1,8 +1,8 @@
 # :bookmark: Bookmarks
 
 - [Privacy & Security](#privacy-and-security)
-- [Robotics](#robotics)
 - [Artificial Intelligence](#artificial-intelligence)
+- [Robotics](#robotics)
 - [Augmented Reality](#augmented-reality)
 - [Virtual Reality](#virtual-reality)
 - [Internet of Things](#internet-of-things)
@@ -38,11 +38,11 @@
 - [Monitor](https://monitor.firefox.com/) :space_invader:
 
 ## Artificial Intelligence
+## Robotics
 ## Augmented Reality
 ## Virtual Reality
 ## Internet of Things
 ## Web
-## Robotics
 ## Maori
 ## Martial Arts
 ## Music
