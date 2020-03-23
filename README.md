@@ -64,12 +64,12 @@
 ## Web
 ## Augmented Reality
 ## Virtual Reality
-## Maori
+## Te AoMaori
 
 **News**
-- [Te Ao Maori](https://www.teaomaori.news/)
+- [Te Ao Māori](https://www.teaomaori.news/)
 
-**Matauranga Maori & Science**
+**Matauranga Māori & Science**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 
 ## Martial Arts
