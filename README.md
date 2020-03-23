@@ -38,11 +38,21 @@
 - [Monitor](https://monitor.firefox.com/) :space_invader:
 
 ## Artificial Intelligence
+
+**Organisations**
+- [Algorithm Watch](https://algorithmwatch.org/en/)
+- [Partnership on AI](https://www.partnershiponai.org/)
+- [AI Now Institute](https://ainowinstitute.org/)
+
 ## Robotics
 ## Internet of Things
 ## Web
 ## Augmented Reality
 ## Virtual Reality
 ## Maori
+
+**News**
+- [Te Ao Maori](https://www.teaomaori.news/)
+
 ## Martial Arts
 ## Music
