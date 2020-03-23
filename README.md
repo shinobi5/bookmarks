@@ -5,8 +5,7 @@
 - [Robotics](#robotics)
 - [Internet of Things](#internet-of-things)
 - [Web](#web)
-- [Augmented Reality](#augmented-reality)
-- [Virtual Reality](#virtual-reality)
+- [Augmented & Virtual Reality](#augmented-virtual-reality)
 - [Te Ao Māori](#te-ao-maori)
 - [Martial Arts](#martial-arts)
 - [Music](#music)
@@ -65,9 +64,7 @@
 
 ## Web
 
-## Augmented Reality
-
-## Virtual Reality
+## Augmented & Virtual Reality
 
 ## Te Ao Māori
 
