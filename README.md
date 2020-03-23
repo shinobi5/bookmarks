@@ -5,7 +5,8 @@
 - [Robotics](#robotics)
 - [IOT](#IOT)
 - [Web](#web)
-- [AR/VR](#ar-vr)
+- [AR](#ar)
+- [VR](#vr)
 - [Te Ao Māori](#te-ao-maori)
 - [Martial Arts](#martial-arts)
 - [Music](#music)
@@ -64,7 +65,9 @@
 
 ## Web
 
-## AR/VR
+## AR
+
+## VR
 
 ## Te Ao Māori
 
