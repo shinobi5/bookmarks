@@ -13,7 +13,7 @@
 
 ## Privacy
 
-**Organisations - Businesses**
+**Organisations & Businesses**
 - [Mozilla](https://www.mozilla.org/en-US/)
 - [DuckDuckGo](https://duckduckgo.com/about)
 - [Privacy International](https://privacyinternational.org/)
