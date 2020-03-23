@@ -71,7 +71,7 @@
 
 ## Te Ao Māori
 
-**Online Media**
+**Media**
 - [Māori Television](https://www.maoritelevision.com/)
 - [Te Ao Māori](https://www.teaomaori.news/)
 - [Waka Huia](https://www.tvnz.co.nz/shows/waka-huia)
