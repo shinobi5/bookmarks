@@ -33,8 +33,8 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
 - [DuckDuckGo](https://duckduckgo.com/app/) :globe_with_meridians: :mag:
 - [Perfect Privacy](https://www.perfect-privacy.com/en/) :ghost:    
-- [Tutanota](https://tutanota.com/) :incoming_envelope:
-- [Protonmail](https://protonmail.com/) :incoming_envelope:
+- [Tutanota](https://tutanota.com/) :incoming_envelope: :calendar:
+- [Protonmail](https://protonmail.com/) :incoming_envelope: :calendar:
 - [BitWarden](https://bitwarden.com/) :lock:
 - [Pass](https://www.passwordstore.org/) :lock:
 - [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/) :lock:
