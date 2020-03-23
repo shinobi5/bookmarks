@@ -7,7 +7,7 @@
 - [Web](#web)
 - [Augmented Reality](#augmented-reality)
 - [Virtual Reality](#virtual-reality)
-- [Maori](#maori)
+- [Te Ao Māori](#te-ao-maori)
 - [Martial Arts](#martial-arts)
 - [Music](#music)
 
