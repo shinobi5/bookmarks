@@ -29,6 +29,9 @@
 **Applications**
 - [CoverUs](https://coverus.health/)
 
+**Research Papers**
+- [SSRN - Richard Whitt](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=861966)
+
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
 - [Perfect Privacy](https://www.perfect-privacy.com/en/) :ghost:    
