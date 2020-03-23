@@ -32,7 +32,7 @@
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) (browser)
 - [Perfect Privacy](https://www.perfect-privacy.com/en/) (VPN)    
-- [DuckDuckGo](https://duckduckgo.com/) (eearch engine)
+- [DuckDuckGo](https://duckduckgo.com/) (search engine)
 - [Tutanota](https://tutanota.com/) (email client)
 - [Protonmail](https://protonmail.com/) (email client)
 - [BitWarden](https://bitwarden.com/) (password manager)
