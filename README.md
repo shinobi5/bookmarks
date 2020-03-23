@@ -71,8 +71,18 @@
 
 ## Te Ao Māori
 
-**News**
+**Online Media**
+- [Māori Television](https://www.maoritelevision.com/)
 - [Te Ao Māori](https://www.teaomaori.news/)
+
+**Te Reo**
+- [Te Taura Whiri i te Reo Māori - Māori Language Commission](https://tetaurawhiri.govt.nz/)
+- [Te Whanake](http://www.tewhanake.maori.nz/)
+
+**History**
+- [New Zealand History](https://nzhistory.govt.nz/)
+- [Te Ara - The Encyclopedia of New Zealand](https://teara.govt.nz/en)
+- [Waitangi Treaty Grounds](https://www.waitangi.org.nz/)
 
 **Matauranga Māori & Science**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
