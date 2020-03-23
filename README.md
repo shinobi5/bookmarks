@@ -60,11 +60,16 @@
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
 ## Robotics
+
 ## Internet of Things
+
 ## Web
+
 ## Augmented Reality
+
 ## Virtual Reality
-## Te AoMaori
+
+## Te Ao Māori
 
 **News**
 - [Te Ao Māori](https://www.teaomaori.news/)
@@ -73,4 +78,5 @@
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 
 ## Martial Arts
+
 ## Music
