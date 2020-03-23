@@ -31,17 +31,17 @@
 
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Browser)
-- [Perfect Privacy](https://www.perfect-privacy.com/en/): (VPN)    
-- [DuckDuckGo](https://duckduckgo.com/) :mag:
-- [Tutanota](https://tutanota.com/) :incoming_envelope:
-- [Protonmail](https://protonmail.com/) :incoming_envelope:
-- [BitWarden](https://bitwarden.com/) :lock:
-- [Pass](https://www.passwordstore.org/) :lock:
-- [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/) :lock:
-- [ownCloud](https://owncloud.org/) :cloud:
-- [Send](https://send.firefox.com/) :postbox:
-- [OnionShare](https://onionshare.org/) :postbox:
-- [Monitor](https://monitor.firefox.com/) :space_invader:
+- [Perfect Privacy](https://www.perfect-privacy.com/en/) (VPN)    
+- [DuckDuckGo](https://duckduckgo.com/) (Search Engine)
+- [Tutanota](https://tutanota.com/) (Email Client)
+- [Protonmail](https://protonmail.com/) (Email Client)
+- [BitWarden](https://bitwarden.com/) (Password Manager)
+- [Pass](https://www.passwordstore.org/) (Password Manager)
+- [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/) (Password Manager)
+- [ownCloud](https://owncloud.org/) (Cloud Storage)
+- [Send](https://send.firefox.com/) (File Sharing)
+- [OnionShare](https://onionshare.org/) (File Sharing)
+- [Monitor](https://monitor.firefox.com/) (Online Data Breach Monitor)
 
 **Applications**
 - [CoverUs](https://coverus.health/)
