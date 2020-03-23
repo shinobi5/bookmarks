@@ -16,12 +16,18 @@
 **Organisations**
 - [Mozilla](https://www.mozilla.org/en-US/)
 - [Privacy International](https://privacyinternational.org/)
+- [MyData](https://mydata.org/)
 
 **Information, Guides and News**
 - [Restore Privacy](https://restoreprivacy.com/)
 - [Privacy Tools](https://www.privacytools.io/)
 - [Pro Privacy](https://proprivacy.com/)
 - [PRISM Break](https://prism-break.org/en/)
+- [GLIA](https://glia.net/)
+- [Solid](https://solid.mit.edu/#home)
+
+**Applications**
+- [CoverUs](https://coverus.health/)
 
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
