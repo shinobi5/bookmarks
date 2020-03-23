@@ -50,6 +50,12 @@
 - [Partnership on AI](https://www.partnershiponai.org/)
 - [AI Now Institute](https://ainowinstitute.org/)
 
+**Open Virtual Assistants**
+[Almond](https://almond.stanford.edu/)
+
+**Labs**
+[Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
+
 ## Robotics
 ## Internet of Things
 ## Web
