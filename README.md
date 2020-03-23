@@ -39,8 +39,8 @@
 - [Pass](https://www.passwordstore.org/) :lock:
 - [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/) :lock:
 - [ownCloud](https://owncloud.org/) :cloud:
-- [Send](https://send.firefox.com/) :file_folder:
-- [OnionShare](https://onionshare.org/) :file_folder:
+- [Send](https://send.firefox.com/) :open_file_folder:
+- [OnionShare](https://onionshare.org/) :open_file_folder:
 - [Monitor](https://monitor.firefox.com/) :space_invader:
 
 **Applications**
