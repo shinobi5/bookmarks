@@ -69,7 +69,7 @@
 **News**
 - [Te Ao Maori](https://www.teaomaori.news/)
 
-**Science and Matauranga Maori**
+**Science & Matauranga Maori**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 
 ## Martial Arts
