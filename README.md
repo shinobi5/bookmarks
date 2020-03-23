@@ -1,16 +1,16 @@
 # :bookmark: Bookmarks
 
-- [Privacy & Security](#privacy-and-security)
-- [Artificial Intelligence](#artificial-intelligence)
+- [Privacy](#privacy)
+- [AI](#AI)
 - [Robotics](#robotics)
-- [Internet of Things](#internet-of-things)
+- [IOT](#IOT)
 - [Web](#web)
-- [Augmented & Virtual Reality](#augmented-virtual-reality)
+- [AR/VR](#ar-vr)
 - [Te Ao Māori](#te-ao-maori)
 - [Martial Arts](#martial-arts)
 - [Music](#music)
 
-## Privacy & Security
+## Privacy
 
 **Organisations**
 - [Mozilla](https://www.mozilla.org/en-US/)
@@ -45,7 +45,7 @@
 **Applications**
 - [CoverUs](https://coverus.health/)
 
-## Artificial Intelligence
+## AI
 
 **Organisations**
 - [Algorithm Watch](https://algorithmwatch.org/en/)
@@ -60,11 +60,11 @@
 
 ## Robotics
 
-## Internet of Things
+## IOT
 
 ## Web
 
-## Augmented & Virtual Reality
+## AR/VR
 
 ## Te Ao Māori
 
