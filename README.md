@@ -77,6 +77,7 @@
 
 **Te Reo**
 - [Te Taura Whiri i te Reo Māori - Māori Language Commission](https://tetaurawhiri.govt.nz/)
+- [Te Wiki o te Reo Māori](https://www.tewikiotereomaori.co.nz/)
 - [Te Whanake](http://www.tewhanake.maori.nz/)
 
 **History**
