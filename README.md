@@ -31,8 +31,8 @@
 
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
+- [DuckDuckGo](https://duckduckgo.com/app/) :globe_with_meridians: :mag:
 - [Perfect Privacy](https://www.perfect-privacy.com/en/) :ghost:    
-- [DuckDuckGo](https://duckduckgo.com/) :mag:
 - [Tutanota](https://tutanota.com/) :incoming_envelope:
 - [Protonmail](https://protonmail.com/) :incoming_envelope:
 - [BitWarden](https://bitwarden.com/) :lock:
