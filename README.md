@@ -71,6 +71,10 @@
 - [Reach UI](https://reacttraining.com/reach-ui/)
 - [Reakit](https://reakit.io/)
 
+**Web Components**
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Javascript Info](https://javascript.info/web-components)
+
 **Research**
 - [Click Away Pound](http://www.clickawaypound.com/)
 
