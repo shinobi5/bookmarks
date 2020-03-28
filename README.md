@@ -71,6 +71,9 @@
 - [Reach UI](https://reacttraining.com/reach-ui/)
 - [Reakit](https://reakit.io/)
 
+**Research**
+- [Click Away Pound](http://www.clickawaypound.com/)
+
 **Tools**
 - [BBC A11Y](https://github.com/bbc/bbc-a11y)
 - [HTML Validator](https://validator.w3.org/)
