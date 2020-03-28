@@ -66,7 +66,7 @@
 
 ## Web
 
-**Accessibility: WCAG**
+**Accessibility**
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
 
 **Tools**
