@@ -69,11 +69,10 @@
 **Accessibility: WCAG**
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
 
-**Accessibilty: Tools**
+**Accessibilty
 - [BBC A11Y](https://github.com/bbc/bbc-a11y)
-
-**HTML: Tools**
 - [HTML Validator](https://validator.w3.org/)
+- [Prince](https://www.princexml.com/)
 
 ## AR
 
