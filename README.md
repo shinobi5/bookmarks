@@ -68,9 +68,8 @@
 
 **Accessibility**
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
-
-**React**
 - [Reach UI](https://reacttraining.com/reach-ui/)
+- [Reakit](https://reakit.io/)
 
 **Tools**
 - [BBC A11Y](https://github.com/bbc/bbc-a11y)
