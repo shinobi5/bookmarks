@@ -31,18 +31,18 @@
 - [SSRN - Richard Whitt](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=861966)
 
 **Tools**
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) :globe_with_meridians:
-- [DuckDuckGo](https://duckduckgo.com/app/) :globe_with_meridians: :mag:
-- [Perfect Privacy](https://www.perfect-privacy.com/en/) :ghost:    
-- [Tutanota](https://tutanota.com/) :incoming_envelope: :calendar:
-- [Protonmail](https://protonmail.com/) :incoming_envelope: :calendar:
-- [BitWarden](https://bitwarden.com/) :lock:
-- [Pass](https://www.passwordstore.org/) :lock:
-- [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/) :lock:
-- [ownCloud](https://owncloud.org/) :cloud:
-- [Send](https://send.firefox.com/) :open_file_folder:
-- [OnionShare](https://onionshare.org/) :open_file_folder:
-- [Monitor](https://monitor.firefox.com/) :space_invader:
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [DuckDuckGo](https://duckduckgo.com/app/)
+- [Perfect Privacy](https://www.perfect-privacy.com/en/)
+- [Tutanota](https://tutanota.com/)
+- [Protonmail](https://protonmail.com/)
+- [BitWarden](https://bitwarden.com/)
+- [Pass](https://www.passwordstore.org/)
+- [Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
+- [ownCloud](https://owncloud.org/)
+- [Send](https://send.firefox.com/)
+- [OnionShare](https://onionshare.org/)
+- [Monitor](https://monitor.firefox.com/)
 
 **Applications**
 - [CoverUs](https://coverus.health/)
