@@ -1,15 +1,28 @@
 # :bookmark: Bookmarks
 
-- [AI](#AI)
-- [AR](#ar)
+- [Artificial Intelligence](#Artificial Intelligence)
+- [Augmented Reality](#ar)
 - [GNU Linux](#gnulinux)
-- [IOT](#IOT)
+- [Internet Of Things](#IOT)
 - [Music](#music)
 - [Privacy](#privacy)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-maori)
-- [VR](#vr)
-- [Web](#web)
+- [Virtual Reality](#vr)
+- [World Wide Web](#wordlwideweb)
+
+## AI
+
+**Organisations**
+- [Algorithm Watch](https://algorithmwatch.org/en/)
+- [Partnership on AI](https://www.partnershiponai.org/)
+- [AI Now Institute](https://ainowinstitute.org/)
+
+**Open Virtual Assistants**
+- [Almond](https://almond.stanford.edu/)
+
+**Labs**
+- [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
 ## Privacy
 
@@ -48,19 +61,6 @@
 
 **Applications**
 - [CoverUs](https://coverus.health/)
-
-## AI
-
-**Organisations**
-- [Algorithm Watch](https://algorithmwatch.org/en/)
-- [Partnership on AI](https://www.partnershiponai.org/)
-- [AI Now Institute](https://ainowinstitute.org/)
-
-**Open Virtual Assistants**
-- [Almond](https://almond.stanford.edu/)
-
-**Labs**
-- [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
 ## Robotics
 
