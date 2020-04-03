@@ -26,7 +26,7 @@
 
 ## Augmented Reality
 
-## GNU/Linux
+## GNU Linux
 
 ## Internet of Things
 
