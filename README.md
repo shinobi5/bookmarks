@@ -1,6 +1,6 @@
 # :bookmark: Bookmarks
 
-- [Privacy](#privacy)
+- [Privacy & Security](#privacy-&-security)
 - [AI](#AI)
 - [Robotics](#robotics)
 - [IOT](#IOT)
@@ -11,7 +11,7 @@
 - [Martial Arts](#martial-arts)
 - [Music](#music)
 
-## Privacy
+## Privacy & Security**
 
 **Organisations & Businesses**
 - [Mozilla](https://www.mozilla.org/en-US/)
@@ -43,6 +43,7 @@
 - [Send](https://send.firefox.com/)
 - [OnionShare](https://onionshare.org/)
 - [Monitor](https://monitor.firefox.com/)
+- [Panopticlick](https://panopticlick.eff.org/)
 
 **Applications**
 - [CoverUs](https://coverus.health/)
