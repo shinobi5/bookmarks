@@ -7,8 +7,8 @@
 - [Web](#web)
 - [AR](#ar)
 - [VR](#vr)
-- [Te Ao Māori](#te-ao-maori)
 - [Music](#music)
+- [Te Ao Māori](#te-ao-maori)
 
 ## Privacy & Security
 
@@ -88,6 +88,8 @@
 
 ## VR
 
+## Music
+
 ## Te Ao Māori
 
 **Media**
@@ -118,5 +120,3 @@
 **Matauranga Māori & Science**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 - [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
-
-## Music
