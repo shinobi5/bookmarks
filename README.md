@@ -5,11 +5,11 @@
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
 - [Music](#music)
-- [Privacy](#privacy)
+- [Privacy - Security](#privacy)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-maori)
 - [Virtual Reality](#vr)
-- [World Wide Web](#wordl-wide-web)
+- [World Wide Web](#world-wide-web)
 
 ## AI
 
