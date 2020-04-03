@@ -11,7 +11,7 @@
 - [Virtual Reality](#vr)
 - [World Wide Web](#world-wide-web)
 
-## AI
+## Artificial Intelligence
 
 **Organisations**
 - [Algorithm Watch](https://algorithmwatch.org/en/)
