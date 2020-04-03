@@ -5,7 +5,7 @@
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
 - [Music](#music)
-- [Privacy - Security](#privacy)
+- [Privacy & Security](#privacy-&-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-maori)
 - [Virtual Reality](#vr)
@@ -32,7 +32,7 @@
 
 ## Music
 
-## Privacy
+## Privacy & Security
 
 **Organisations & Businesses**
 - [Mozilla](https://www.mozilla.org/en-US/)
