@@ -1,15 +1,15 @@
 # :bookmark: Bookmarks
 
-- [Privacy](#privacy)
 - [AI](#AI)
-- [Robotics](#robotics)
-- [Web](#web)
-- [IOT](#IOT)
 - [AR](#ar)
-- [VR](#vr)
 - [GNU Linux](#gnulinux)
+- [IOT](#IOT)
 - [Music](#music)
+- [Privacy](#privacy)
+- [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-maori)
+- [VR](#vr)
+- [Web](#web)
 
 ## Privacy
 
