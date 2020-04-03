@@ -8,7 +8,7 @@
 - [Privacy & Security](#privacy-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-māori)
-- [World Wide Web](#world-wide-web)
+- [Web](#web)
 
 ## Artificial Intelligence
 
@@ -105,7 +105,7 @@
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 - [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
 
-## World Wide Web
+## Web
 
 **Accessibility**
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
