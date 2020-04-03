@@ -7,7 +7,7 @@
 - [IOT](#IOT)
 - [AR](#ar)
 - [VR](#vr)
-- [GNU/Linux](#gnu/linux)
+- [GNU Linux](#gnulinux)
 - [Music](#music)
 - [Te Ao Māori](#te-ao-maori)
 
