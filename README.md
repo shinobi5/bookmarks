@@ -30,7 +30,7 @@
 ## Mixed Reality
 
 **Organisations**
-- [Mozilla | Mixed Reality](https://mixedreality.mozilla.org/)
+- [Mozilla: Mixed Reality](https://mixedreality.mozilla.org/)
 
 ## Music
 
