@@ -8,7 +8,6 @@
 - [AR](#ar)
 - [VR](#vr)
 - [Te Ao Māori](#te-ao-maori)
-- [Martial Arts](#martial-arts)
 - [Music](#music)
 
 ## Privacy & Security
