@@ -1,6 +1,6 @@
 # :bookmark: Bookmarks
 
-- [Artificial Intelligence](#Artificial Intelligence)
+- [Artificial Intelligence](#artificialintelligence)
 - [Augmented Reality](#ar)
 - [GNU Linux](#gnulinux)
 - [Internet Of Things](#IOT)
