@@ -5,10 +5,10 @@
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
 - [Music](#music)
-- [Privacy & Security](#privacy-&-security)
+- [Privacy & Security](#privacy-&amp;-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-maori)
-- [Virtual Reality](#vr)
+- [Virtual Reality](#virtual-reality)
 - [World Wide Web](#world-wide-web)
 
 ## Artificial Intelligence
@@ -119,6 +119,8 @@
 **Matauranga Māori & Science**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 - [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
+
+## Virtual Reality
 
 ## World Wide Web
 
