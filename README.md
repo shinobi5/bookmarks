@@ -1,15 +1,15 @@
 # :bookmark: Bookmarks
 
-- [Artificial Intelligence](#artificialintelligence)
-- [Augmented Reality](#ar)
-- [GNU Linux](#gnulinux)
-- [Internet Of Things](#IOT)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Augmented Reality](#augmeted-reality)
+- [GNU Linux](#gnu-linux)
+- [Internet of Things](#internet-of-things)
 - [Music](#music)
 - [Privacy](#privacy)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-maori)
 - [Virtual Reality](#vr)
-- [World Wide Web](#wordlwideweb)
+- [World Wide Web](#wordl-wide-web)
 
 ## AI
 
@@ -23,6 +23,14 @@
 
 **Labs**
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
+
+## Augmented Reality
+
+## GNU/Linux
+
+## Internet of Things
+
+## Music
 
 ## Privacy
 
@@ -64,8 +72,6 @@
 
 ## Robotics
 
-## Web
-
 **Accessibility**
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
 - [Reach UI](https://reacttraining.com/reach-ui/)
@@ -82,14 +88,6 @@
 - [BBC A11Y](https://github.com/bbc/bbc-a11y)
 - [HTML Validator](https://validator.w3.org/)
 - [Prince](https://www.princexml.com/)
-
-## IOT
-
-## AR/VR
-
-## GNU/Linux
-
-## Music
 
 ## Te Ao Māori
 
@@ -121,4 +119,6 @@
 **Matauranga Māori & Science**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 - [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
+
+## World Wide Web
 
