@@ -1,6 +1,6 @@
 # :bookmark: Bookmarks
 
-- [Privacy & Security](#privacy-&-security)
+- [Privacy . Security](#privacy-.-security)
 - [AI](#AI)
 - [Robotics](#robotics)
 - [IOT](#IOT)
@@ -10,7 +10,7 @@
 - [Music](#music)
 - [Te Ao Māori](#te-ao-maori)
 
-## Privacy & Security
+## Privacy . Security
 
 **Organisations & Businesses**
 - [Mozilla](https://www.mozilla.org/en-US/)
