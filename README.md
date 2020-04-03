@@ -1,7 +1,7 @@
 # :bookmark: Bookmarks
 
 - [Artificial Intelligence](#artificial-intelligence)
-- [Augmented Reality](#augmeted-reality)
+- [Augmented Reality](#augmented-reality)
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
 - [Music](#music)
