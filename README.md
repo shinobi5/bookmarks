@@ -1,14 +1,13 @@
 # :bookmark: Bookmarks
 
 - [Artificial Intelligence](#artificial-intelligence)
-- [Augmented Reality](#augmented-reality)
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
+- [Mixed Reality](#mixed-reality)
 - [Music](#music)
 - [Privacy & Security](#privacy-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-māori)
-- [Virtual Reality](#virtual-reality)
 - [World Wide Web](#world-wide-web)
 
 ## Artificial Intelligence
@@ -24,11 +23,14 @@
 **Labs**
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
-## Augmented Reality
-
 ## GNU Linux
 
 ## Internet of Things
+
+## Mixed Reality
+
+**Organisations**
+[Mozilla | Mixed Reality](https://mixedreality.mozilla.org/)
 
 ## Music
 
@@ -102,8 +104,6 @@
 **Matauranga Māori & Science**
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 - [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
-
-## Virtual Reality
 
 ## World Wide Web
 
