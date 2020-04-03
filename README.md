@@ -3,10 +3,11 @@
 - [Privacy](#privacy)
 - [AI](#AI)
 - [Robotics](#robotics)
-- [IOT](#IOT)
 - [Web](#web)
+- [IOT](#IOT)
 - [AR](#ar)
 - [VR](#vr)
+- [GNU/Linux](#gnu/linux)
 - [Music](#music)
 - [Te Ao Māori](#te-ao-maori)
 
@@ -63,8 +64,6 @@
 
 ## Robotics
 
-## IOT
-
 ## Web
 
 **Accessibility**
@@ -84,9 +83,11 @@
 - [HTML Validator](https://validator.w3.org/)
 - [Prince](https://www.princexml.com/)
 
-## AR
+## IOT
 
-## VR
+## AR/VR
+
+## GNU/Linux
 
 ## Music
 
