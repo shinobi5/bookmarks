@@ -11,13 +11,14 @@
 - [Martial Arts](#martial-arts)
 - [Music](#music)
 
-## Privacy & Security**
+## Privacy & Security
 
 **Organisations & Businesses**
 - [Mozilla](https://www.mozilla.org/en-US/)
 - [DuckDuckGo](https://duckduckgo.com/about)
 - [Privacy International](https://privacyinternational.org/)
 - [MyData](https://mydata.org/)
+- [Tor Project](https://www.torproject.org/)
 
 **Information, Guides and News**
 - [Restore Privacy](https://restoreprivacy.com/)
