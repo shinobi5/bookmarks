@@ -72,23 +72,6 @@
 
 ## Robotics
 
-**Accessibility**
-- [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
-- [Reach UI](https://reacttraining.com/reach-ui/)
-- [Reakit](https://reakit.io/)
-
-**Web Components**
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-- [Javascript Info](https://javascript.info/web-components)
-
-**Research**
-- [Click Away Pound](http://www.clickawaypound.com/)
-
-**Tools**
-- [BBC A11Y](https://github.com/bbc/bbc-a11y)
-- [HTML Validator](https://validator.w3.org/)
-- [Prince](https://www.princexml.com/)
-
 ## Te Ao Māori
 
 **Media**
@@ -124,3 +107,19 @@
 
 ## World Wide Web
 
+**Accessibility**
+- [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
+- [Reach UI](https://reacttraining.com/reach-ui/)
+- [Reakit](https://reakit.io/)
+
+**Web Components**
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+- [Javascript Info](https://javascript.info/web-components)
+
+**Research**
+- [Click Away Pound](http://www.clickawaypound.com/)
+
+**Tools**
+- [BBC A11Y](https://github.com/bbc/bbc-a11y)
+- [HTML Validator](https://validator.w3.org/)
+- [Prince](https://www.princexml.com/)
