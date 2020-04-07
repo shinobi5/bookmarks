@@ -1,10 +1,12 @@
 # :bookmark: Bookmarks
 
 - [Artificial Intelligence](#artificial-intelligence)
+- [Electronics & Hardware](#electronics-hardware)
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
 - [Mixed Reality](#mixed-reality)
 - [Music](#music)
+- [Electronics & Hardware](#electronics-hardware)
 - [Privacy & Security](#privacy-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-māori)
@@ -34,10 +36,11 @@
 
 ## Music
 
-## PC Building
+## Electronics & Hardware
 
-**Applications**
+**PC Builds**
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
+
 ## Privacy & Security
 
 **Organisations & Businesses**
