@@ -34,6 +34,10 @@
 
 ## Music
 
+## PC Building
+
+**Applications**
+- [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
 ## Privacy & Security
 
 **Organisations & Businesses**
