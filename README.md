@@ -6,7 +6,7 @@
 - [Internet of Things](#internet-of-things)
 - [Mixed Reality](#mixed-reality)
 - [Music](#music)
-- [Privacy & Security](#privacy-security)
+- [Privacy-Security](#privacy-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-māori)
 - [Web](#web)
@@ -40,7 +40,7 @@
 **PC Builds**
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
 
-## Privacy & Security
+## Privacy-Security
 
 **Organisations & Businesses**
 - [Mozilla](https://www.mozilla.org/en-US/)
