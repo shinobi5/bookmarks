@@ -6,7 +6,6 @@
 - [Internet of Things](#internet-of-things)
 - [Mixed Reality](#mixed-reality)
 - [Music](#music)
-- [Electronics & Hardware](#electronics-hardware)
 - [Privacy & Security](#privacy-security)
 - [Robotics](#robotics)
 - [Te Ao Māori](#te-ao-māori)
@@ -64,6 +63,7 @@
 **Tools**
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [DuckDuckGo](https://duckduckgo.com/app/)
+- [IVPN](https://www.ivpn.net/)
 - [Perfect Privacy](https://www.perfect-privacy.com/en/)
 - [Tutanota](https://tutanota.com/)
 - [Protonmail](https://protonmail.com/)
