@@ -7,7 +7,7 @@
 - [Almond](https://almond.stanford.edu/)
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
-### GNU/Linux
+### GNU | Linux
 
 ### Internet of Things
 
@@ -16,10 +16,10 @@
 
 ### Music
 
-### Electronics-Hardware
+### Electronics | Hardware
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
 
-### Privacy-Security
+### Privacy | Security
 - [Mozilla](https://www.mozilla.org/en-US/)
 - [DuckDuckGo](https://duckduckgo.com/about)
 - [Privacy International](https://privacyinternational.org/)
