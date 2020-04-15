@@ -1,4 +1,4 @@
-# :bookmark: Bookmarks
+# :bookmark: Booker T
 
 ### Artificial Intelligence
 - [Algorithm Watch](https://algorithmwatch.org/en/)
