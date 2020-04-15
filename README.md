@@ -1,7 +1,7 @@
 # :bookmark: Bookmarks
 
 - [Artificial Intelligence](#artificial-intelligence)
-- [Electronics & Hardware](#electronics-hardware)
+- [Electronics-Hardware](#electronics-Hardware)
 - [GNU Linux](#gnu-linux)
 - [Internet of Things](#internet-of-things)
 - [Mixed Reality](#mixed-reality)
@@ -35,7 +35,7 @@
 
 ## Music
 
-## Electronics & Hardware
+## Electronics-Hardware
 
 **PC Builds**
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
