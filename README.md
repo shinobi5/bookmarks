@@ -1,25 +1,25 @@
 # :bookmark: Bookmarks
 
-## Artificial Intelligence
+### Artificial Intelligence
 - [Algorithm Watch](https://algorithmwatch.org/en/)
 - [Partnership on AI](https://www.partnershiponai.org/)
 - [AI Now Institute](https://ainowinstitute.org/)
 - [Almond](https://almond.stanford.edu/)
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
-## GNU Linux
+### GNU/Linux
 
-## Internet of Things
+### Internet of Things
 
-## Mixed Reality
+### Mixed Reality
 - [Mozilla - Mixed Reality](https://mixedreality.mozilla.org/)
 
-## Music
+### Music
 
-## Electronics-Hardware
+### Electronics-Hardware
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
 
-## Privacy-Security
+### Privacy-Security
 - [Mozilla](https://www.mozilla.org/en-US/)
 - [DuckDuckGo](https://duckduckgo.com/about)
 - [Privacy International](https://privacyinternational.org/)
@@ -48,9 +48,9 @@
 - [Panopticlick](https://panopticlick.eff.org/)
 - [CoverUs](https://coverus.health/)
 
-## Robotics
+### Robotics
 
-## Te Ao Māori
+### Te Ao Māori
 - [Māori Television](https://www.maoritelevision.com/)
 - [Te Ao Māori](https://www.teaomaori.news/)
 - [Waka Huia](https://www.tvnz.co.nz/shows/waka-huia)
@@ -71,7 +71,7 @@
 - [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
 - [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
 
-## Web
+### Web
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
 - [Reach UI](https://reacttraining.com/reach-ui/)
 - [Reakit](https://reakit.io/)
