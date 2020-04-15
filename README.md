@@ -9,7 +9,7 @@
 
 ### GNU | Linux
 
-### Internet of Things
+### IOT
 
 ### Mixed Reality
 - [Mozilla - Mixed Reality](https://mixedreality.mozilla.org/)
