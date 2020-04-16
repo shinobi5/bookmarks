@@ -1,6 +1,6 @@
 # :bookmark: Booker T
 
-**Artificial Intelligence**
+**AI**
 - [Algorithm Watch](https://algorithmwatch.org/en/)
 - [Partnership on AI](https://www.partnershiponai.org/)
 - [AI Now Institute](https://ainowinstitute.org/)
