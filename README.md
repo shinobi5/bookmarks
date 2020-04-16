@@ -7,7 +7,7 @@
 - [Almond](https://almond.stanford.edu/)
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
-**GNU | Linux**
+**GNU-Linux**
 
 **IOT**
 
