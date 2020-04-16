@@ -16,7 +16,7 @@
 
 ### Music
 
-### Electronics | Hardware
+### Electronics . Hardware
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
 
 ### Privacy | Security
