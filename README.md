@@ -19,6 +19,8 @@
 
 **Electronics-Hardware**
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
+- [Tessel 2](https://tessel.io/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
 
 **Privacy-Security**
 - [Mozilla](https://www.mozilla.org/en-US/)
