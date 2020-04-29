@@ -21,6 +21,7 @@
 - [PC Part Picker (NZ)](https://nz.pcpartpicker.com/)
 - [Tessel 2](https://tessel.io/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
+- [Anandtech](https://www.anandtech.com/)
 
 **Privacy-Security**
 - [Mozilla](https://www.mozilla.org/en-US/)
