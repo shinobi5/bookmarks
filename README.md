@@ -4,6 +4,7 @@
 - [Algorithm Watch](https://algorithmwatch.org/en/)
 - [Partnership on AI](https://www.partnershiponai.org/)
 - [AI Now Institute](https://ainowinstitute.org/)
+- [Montreal AI Ethics Institute](https://montrealethics.ai/)
 - [Almond](https://almond.stanford.edu/)
 - [Stanford Open Virtual Assistant Lab](https://oval.cs.stanford.edu/)
 
