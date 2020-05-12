@@ -56,27 +56,6 @@
 
 **Software**
 
-**Te Ao Māori**
-- [Māori Television](https://www.maoritelevision.com/)
-- [Te Ao Māori](https://www.teaomaori.news/)
-- [Waka Huia](https://www.tvnz.co.nz/shows/waka-huia)
-- [Te Karere](https://www.tvnz.co.nz/shows/te-karere)
-- [Te Taura Whiri i te Reo Māori - Māori Language Commission](https://tetaurawhiri.govt.nz/)
-- [Te Wiki o te Reo Māori](https://www.tewikiotereomaori.co.nz/)
-- [Online Māori Dictionary](https://maoridictionary.co.nz/)
-- [Te Whanake - Māori Language Online](http://www.tewhanake.maori.nz/)
-- [Te Wānanga o Aotearoa - Te Reo Rangatira](https://www.twoa.ac.nz/Nga-Akoranga-Our-Programmes/Te-Reo-Maori-Maori-Language)
-- [Victoria University of Wellington - Te Pūtahi Reo](https://www.wgtn.ac.nz/llc/resources/practise-online/maori)
-- [Memrise - Māori](https://www.memrise.com/courses/english/maori/)
-- [Te Ataarangi](http://teataarangi.org.nz/)
-- [Māori Language.net](http://www.maorilanguage.net/)
-- [Folk Song - Waiata](http://folksong.org.nz/waiata.html)
-- [New Zealand History](https://nzhistory.govt.nz/)
-- [Te Ara - The Encyclopedia of New Zealand](https://teara.govt.nz/en)
-- [Waitangi Treaty Grounds](https://www.waitangi.org.nz/)
-- [Science Learning Hub - Resouces with Maori Content](https://www.sciencelearn.org.nz/resources/2268-resources-with-maori-content)
-- [MBIE - Vision Matauranga](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/agencies-policies-and-budget-initiatives/vision-matauranga-policy/)
-
 **Web**
 - [UK Govt WCAG guidelines](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag)
 - [Reach UI](https://reacttraining.com/reach-ui/)
