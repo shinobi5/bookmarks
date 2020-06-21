@@ -1,4 +1,4 @@
-# :bookmark: Booker T
+# :bookmark: Bookmarks
 
 **AI**
 - [Algorithm Watch](https://algorithmwatch.org/en/)
